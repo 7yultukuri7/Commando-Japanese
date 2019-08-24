@@ -1,4 +1,4 @@
-#Discord.js-commando Japanese
+# Discord.js-commando Japanese
 個人利用のためにフレームワークの一部を日本語化しています。
 
 # Commando
